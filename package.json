@@ -1,0 +1,21 @@
+{
+  "name": "backend-testing",
+  "version": "1.0.0",
+  "description": "backend server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cackerman0/backend-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cackerman0/backend-testing/issues"
+  },
+  "homepage": "https://github.com/cackerman0/backend-testing#readme"
+}
